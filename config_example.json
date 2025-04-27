@@ -1,0 +1,4 @@
+{
+  "sheet_id": "your_google_sheets_id",
+  "credentials_file": "credentials.json"
+}
